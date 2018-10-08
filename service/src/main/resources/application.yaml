@@ -1,0 +1,6 @@
+rongyun:
+  appKey: qd46yzrfqi85f
+  appSecret: e7rvFmSzwEjaX
+server:
+  #端口号
+  port: 8000
