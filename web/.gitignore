@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+out/
+bin/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.lock
+*-lock.*
+*.log
+.gradle
+build
